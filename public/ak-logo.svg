@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect width="100" height="100" rx="18" fill="#101B14" stroke="rgba(57, 255, 136, 0.4)" stroke-width="2"/>
+  <text x="50" y="62" font-family="'IBM Plex Mono', monospace" font-size="38" font-weight="bold" fill="#39FF88" text-anchor="middle" letter-spacing="1">AK</text>
+  <circle cx="80" cy="22" r="4" fill="#39FF88" opacity="0.9"/>
+</svg>
