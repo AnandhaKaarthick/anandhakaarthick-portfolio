@@ -46,8 +46,8 @@ export const projectsData: Project[] = [
     title: "MSME MATE",
     badge: "AppleXfest Hackathon",
     codeId: "FLEET_OPS",
-    problem: "Small transport operators need real-time fleet visibility and fuel-waste telemetry.",
-    description: "A reframe of Bus Tracker's core telemetry for MSME-scale transport operations. Adds idle-time and fuel-waste detection metrics, quantified cost impact calculators, and multi-tenant operator dashboards.",
+    problem: "Fragmented business tools create operational blind spots and critical cash flow risks.",
+    description: "All-in-one business management and financial intelligence platform for MSMEs. Unifies real-time inventory, double-entry accounting, invoicing, and credit ledgers into an intuitive dashboard. Powered by 24/7 Gemini AI financial advisory, zero-friction onboarding, and native multilingual support across regional demographics.",
     tags: ["React", "FastAPI", "MySQL/SQLite", "WebSockets"],
     links: {
       github: "https://github.com/AnandhaKaarthick/MSMEMATE",
